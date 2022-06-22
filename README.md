@@ -90,4 +90,5 @@ This is a functional test that compares hypercuboids produced from test_complete
 
 ## Authors
 
-[Evgenii Zorin](https://github.com/EvgeniiZorin) - code
+[Evgenii Zorin](https://github.com/EvgeniiZorin) - code   
+[Prof. Dmitry Ivankov](https://github.com/ivankovlab) - inspiration and program base (HypercubeME)
