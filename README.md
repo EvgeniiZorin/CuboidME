@@ -11,11 +11,13 @@ Program which calculates hypercuboids from a given list of genotypes. Accompanyi
 
 # CuboidME.py
 
-**Input options for CuboidME**: 
+## Input
+
+There are two options for input for CuboidME.py: 
 - .txt file with genotypes
 - .txt file with hypercuboids (dim = N)
 
-Input file = fitness landscape dataset in the following format: `Mutations\tFitness\n`, e.g.:
+File with genotypes should be in the following format: `Mutations\tFitness\n`, e.g.:
 ```csv
 Genotype	Fitness
 3*:61E:156E 1.30103043125
