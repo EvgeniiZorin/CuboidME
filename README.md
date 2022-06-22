@@ -15,6 +15,13 @@ Program which calculates hypercuboids from a given list of genotypes. Accompanyi
 - .txt file with genotypes
 - .txt file with hypercuboids (dim = N)
 
+Input file = fitness landscape dataset in the following format: `Mutations\tFitness`, e.g.:
+```txt
+asdf
+asdf
+asdffd
+```
+
 ## Arguments:
 - Compulsory:
   - ```-i, --input``` (option 1) input = .txt file with genotypes, if you want to find all hypercuboids
